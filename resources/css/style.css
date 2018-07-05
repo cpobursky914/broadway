@@ -1,0 +1,22 @@
+*{
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+#links{
+  font-size: 18px;
+  color: white;
+}
+
+#banner, h2.info{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
