@@ -20,3 +20,8 @@ h1{
   background-position: center;
   background-repeat: no-repeat;
 }
+
+h2.about{
+  font-size: 32px;
+  font-weight: bold;
+}
