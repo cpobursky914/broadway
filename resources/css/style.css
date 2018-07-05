@@ -1,5 +1,8 @@
 *{
   font-family: Helvetica;
+  }
+
+#center{
   text-align: center;
 }
 
@@ -24,4 +27,20 @@ h1{
 h2.about{
   font-size: 32px;
   font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p{
+  font-size: 14px;
+}
+
+#footer{
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
