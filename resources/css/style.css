@@ -24,6 +24,12 @@ h1{
   background-repeat: no-repeat;
 }
 
+h2.info{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
 h2.about{
   font-size: 32px;
   font-weight: bold;
